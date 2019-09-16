@@ -4,9 +4,6 @@ html, body {
     left:0;
     right:0;
     position:fixed;
-    background: blue;
-    color: white;
-    font-size: 30px;
 }
 
 body {
